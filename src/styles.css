@@ -1,1 +1,58 @@
 /* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+
+/* :root {
+  --color: #1ebeb6;
+  --primar--color:#efbb20;
+   --navbar--color:#2c353d;
+  --button--color:linear-gradient(90deg,rgba(30,190,182,1)0%,rgba(0,130,124,1));
+  --box-shadow:0 0 10px #e7e7e7;
+  --background:#f7f7f7
+
+}
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+  transition: .2s;
+  text-transform: capitalize;
+  transition: all .2s linear;
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+
+
+}
+
+html {
+  font-size: 62.5%;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  scroll-padding-top: 6rem;
+} */
+:root {
+  /* --mainclr:#1e99be; */
+   --mainclr:#194646;
+   /* --mainclr:rgb(158, 144, 144); */
+
+  /* --secclr: #444242; */
+  --secclr: #02172c;
+  --third: #dfe4e0;
+  --mainafterclr: hsl(166, 43%, 12%);
+}
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+  transition: 0.2s;
+  text-transform: capitalize;
+  text-decoration: none;
+    font-family: "Poppins", sans-serif;
+}
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
